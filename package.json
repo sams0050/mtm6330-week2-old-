@@ -1,0 +1,22 @@
+{
+  "name": "ls",
+  "version": "1.0.0",
+  "description": "My First GitHub repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sams0050/mtm6330-week2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sams0050/mtm6330-week2/issues"
+  },
+  "homepage": "https://github.com/sams0050/mtm6330-week2#readme",
+  "devDependencies": {
+    "webpack": "^3.6.0"
+  }
+}
